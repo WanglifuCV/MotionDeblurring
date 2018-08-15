@@ -13,4 +13,4 @@ In Blind Motion Deblurring, the kernel is unknown, and therefore, in order to re
 
 My code is used to solve the single-image blind deconvlution problem, where both blur kernel and latent sharp image are estimated from just one blurred image.
 
-I present a short introduction and some results in several slices.[Introduction & Results](./Introduction.pdf)
+I present a short introduction and some results in several slices.[Introduction & Results](./FastMotionDeblurring/Introduction.pdf)
