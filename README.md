@@ -23,7 +23,7 @@ the algorithm can estimate the kerenl,
 
 and the estimated latent image
 
-![deblurred](./FastMotionDeblurring/Results/deblur_fishes.jpgg)
+![deblurred](./FastMotionDeblurring/Results/deblur_fishes.jpg)
 
 
 I present a short introduction and some results in [Introduction & Results](./FastMotionDeblurring/Introduction.pdf).
