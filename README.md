@@ -12,3 +12,5 @@ As we know, a motion blur is a common artifact that produces blurry images with 
 In Blind Motion Deblurring, the kernel is unknown, and therefore, in order to recovery the latent shape image, the kernel should be estimated.
 
 My code is used to solve the single-image blind deconvlution problem, where both blur kernel and latent sharp image are estimated from just one blurred image.
+
+I present a short introduction and some results in several slices.[Introduction & Results](/Introduction.pdf)
