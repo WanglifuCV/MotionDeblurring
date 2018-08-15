@@ -15,15 +15,15 @@ My code is used to solve the single-image blind deconvlution problem, where both
 
 As an example, given a motion blurred image,
 
-![blurred](./FastMotionDeblurring/Test Images/fishes.jpg)
+![blurred](./FastMotionDeblurring/test_images/fishes.jpg)
 
 the algorithm can estimate the kerenl,
 
-![kernel](./FastMotionDeblurring/Results/Kernel_fishes.jpg)
+![kernel](./FastMotionDeblurring/results/Kernel_fishes.jpg)
 
 and the estimated latent image
 
-![deblurred](./FastMotionDeblurring/Results/deblur_fishes.jpg)
+![deblurred](./FastMotionDeblurring/results/deblur_fishes.jpg)
 
 
 I present a short introduction and some results in [Introduction & Results](./FastMotionDeblurring/Introduction.pdf).
