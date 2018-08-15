@@ -13,8 +13,17 @@ In Blind Motion Deblurring, the kernel is unknown, and therefore, in order to re
 
 My code is used to solve the single-image blind deconvlution problem, where both blur kernel and latent sharp image are estimated from just one blurred image.
 
-As an example, given a motion blurred image
+As an example, given a motion blurred image,
 
-![blurred]('./FastMotionDeblurring/Test Images/pietro.tif')
+![blurred](./FastMotionDeblurring/Test Images/fishes.jpg)
+
+the algorithm can estimate the kerenl,
+
+![kernel](./FastMotionDeblurring/Results/Kernel_fishes.jpg)
+
+and the estimated latent image
+
+![deblurred](./FastMotionDeblurring/Results/deblur_fishes.jpgg)
+
 
 I present a short introduction and some results in [Introduction & Results](./FastMotionDeblurring/Introduction.pdf).
