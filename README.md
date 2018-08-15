@@ -15,6 +15,6 @@ My code is used to solve the single-image blind deconvlution problem, where both
 
 As an example, given a motion blurred image
 
-![blurred](./FastMotionDeblurring/Test Images/pietro.tif "Blurred Image")
+![blurred]('./FastMotionDeblurring/Test Images/pietro.tif')
 
 I present a short introduction and some results in [Introduction & Results](./FastMotionDeblurring/Introduction.pdf).
